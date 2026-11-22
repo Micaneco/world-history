@@ -1,0 +1,4 @@
+function tutorMascotHTML(prefix=''){
+ const src=prefix+'dachshund-black-landmarks.png';
+ return `<svg class="tutor-mascot" viewBox="0 0 2172 724" role="img" aria-label="${prefix?'A friendly dachshund carrying miniature historical buildings':'歴史的建築を背中に載せたダックスフンド先生'}"><defs><linearGradient id="tutor-lid" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#373332"/><stop offset="1" stop-color="#302d2d"/></linearGradient></defs><image href="${src}" width="2172" height="724"/><g class="tutor-blink"><ellipse cx="610" cy="210" rx="45" ry="66" transform="rotate(-15 610 210)" fill="url(#tutor-lid)"/><path d="M578 210 Q610 233 640 200" fill="none" stroke="#151312" stroke-width="5" stroke-linecap="round"/><ellipse cx="757" cy="156" rx="36" ry="57" transform="rotate(-13 757 156)" fill="url(#tutor-lid)"/><path d="M734 154 Q756 171 780 148" fill="none" stroke="#151312" stroke-width="5" stroke-linecap="round"/></g></svg>`
+}

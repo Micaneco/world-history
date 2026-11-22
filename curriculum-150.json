@@ -1,0 +1,5262 @@
+{
+  "schema_version": "1.0.0",
+  "title": "世界史ー合格への旅",
+  "subtitle": "World History — A Journey to Success",
+  "language": "ja",
+  "created_at": "2026-11-03",
+  "description": "第1集：東アジア史100項目と世界文化・美術史50項目。難易度は独自の学習目安。",
+  "modules": [
+    {
+      "id": "M01",
+      "title": "古代中国の文明と思想",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M02",
+      "title": "秦漢の国家と文化",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M03",
+      "title": "魏晋南北朝と仏教文化",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M04",
+      "title": "隋唐の国家と国際交流",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M05",
+      "title": "唐宋の文学・美術・技術",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M06",
+      "title": "宋・遼・金・モンゴル",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M07",
+      "title": "明の国家と海域交流",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M08",
+      "title": "清の政治・文化と近代への転換",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M09",
+      "title": "朝鮮半島の歴史と文化",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M10",
+      "title": "東アジア近現代と地域間交流",
+      "region": "東アジア",
+      "track": "東アジア史",
+      "entry_count": 10
+    },
+    {
+      "id": "M11",
+      "title": "西アジア・地中海の古代文化",
+      "region": "西アジア・地中海",
+      "track": "世界文化・美術史",
+      "entry_count": 10
+    },
+    {
+      "id": "M12",
+      "title": "南アジア・東南アジアの宗教と芸術",
+      "region": "南アジア・東南アジア",
+      "track": "世界文化・美術史",
+      "entry_count": 10
+    },
+    {
+      "id": "M13",
+      "title": "イスラーム圏・アフリカの文化",
+      "region": "西アジア・アフリカ",
+      "track": "世界文化・美術史",
+      "entry_count": 10
+    },
+    {
+      "id": "M14",
+      "title": "ヨーロッパの中世から近現代文化",
+      "region": "ヨーロッパ",
+      "track": "世界文化・美術史",
+      "entry_count": 10
+    },
+    {
+      "id": "M15",
+      "title": "アメリカ大陸・オセアニアと世界の現代文化",
+      "region": "アメリカ大陸・オセアニア",
+      "track": "世界文化・美術史",
+      "entry_count": 10
+    }
+  ],
+  "entries": [
+    {
+      "id": "WHQ-0001",
+      "order": 1,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "仰韶文化",
+      "date": {
+        "display": "前5000〜前3000年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "黄河中流域で発達した新石器文化。彩文土器が代表的で、長江流域の稲作文化と地域差がある。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "彩文土器で知られる黄河中流域の新石器文化は？",
+        "answer": "仰韶文化",
+        "accepted_answers": [
+          "仰韶文化"
+        ],
+        "explanation": "黄河中流域で発達した新石器文化。彩文土器が代表的で、長江流域の稲作文化と地域差がある。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0002",
+      "order": 2,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "良渚文化",
+      "date": {
+        "display": "前3300〜前2300年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "長江下流域で稲作を基盤に発展した。玉器や大規模な都市遺跡は、中国文明の起源が黄河だけではないことを示す。",
+      "difficulty": {
+        "level": 3,
+        "label": "発展"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "玉器と都市遺跡で知られる長江下流域の新石器文化は？",
+        "answer": "良渚文化",
+        "accepted_answers": [
+          "良渚文化"
+        ],
+        "explanation": "長江下流域で稲作を基盤に発展した。玉器や大規模な都市遺跡は、中国文明の起源が黄河だけではないことを示す。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · 良渚",
+          "url": "https://whc.unesco.org/en/list/1592"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0003",
+      "order": 3,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "殷と甲骨文字",
+      "date": {
+        "display": "前13〜前11世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "殷後期の王都・殷墟では、亀甲や獣骨に占いの記録が刻まれた。甲骨文字は現在の漢字につながる体系的文字資料である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "殷の占いを記録し、漢字の源流となった文字は？",
+        "answer": "甲骨文字",
+        "accepted_answers": [
+          "甲骨文字"
+        ],
+        "explanation": "殷後期の王都・殷墟では、亀甲や獣骨に占いの記録が刻まれた。甲骨文字は現在の漢字につながる体系的文字資料である。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0004",
+      "order": 4,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "周の成立と天命思想",
+      "date": {
+        "display": "前11世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "周は殷を倒し、支配の正当性を天命で説明した。天命は徳を失った王朝から別の王朝へ移るという易姓革命の論理につながる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "王朝交替の正当性を、天から授けられた支配権で説明する思想は？",
+        "answer": "天命思想",
+        "accepted_answers": [
+          "天命思想"
+        ],
+        "explanation": "周は殷を倒し、支配の正当性を天命で説明した。天命は徳を失った王朝から別の王朝へ移るという易姓革命の論理につながる。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0005",
+      "order": 5,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "周の封建制",
+      "date": {
+        "display": "前11〜前8世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "王が一族や功臣を諸侯として各地に封じ、血縁秩序を政治に結びつけた。近世日本や中世ヨーロッパの封建制と同一視しない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "周王が一族や功臣を諸侯に封じた統治制度は？",
+        "answer": "封建制",
+        "accepted_answers": [
+          "封建制"
+        ],
+        "explanation": "王が一族や功臣を諸侯として各地に封じ、血縁秩序を政治に結びつけた。近世日本や中世ヨーロッパの封建制と同一視しない。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0006",
+      "order": 6,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "周の東遷",
+      "date": {
+        "display": "前770年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "周は都を鎬京から洛邑へ移した。以後を東周と呼び、諸侯が争う春秋・戦国時代へと進む。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "前770年の東遷後、周の都となった都市は？",
+        "answer": "洛邑",
+        "accepted_answers": [
+          "洛邑",
+          "洛陽"
+        ],
+        "explanation": "周は都を鎬京から洛邑へ移した。以後を東周と呼び、諸侯が争う春秋・戦国時代へと進む。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0007",
+      "order": 7,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "孔子と儒家",
+      "date": {
+        "display": "前6〜前5世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "孔子は仁と礼を重視し、徳による政治を説いた。その言行は弟子たちによって『論語』にまとめられた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "孔子の言行を弟子たちがまとめた書物は？",
+        "answer": "論語",
+        "accepted_answers": [
+          "論語"
+        ],
+        "explanation": "孔子は仁と礼を重視し、徳による政治を説いた。その言行は弟子たちによって『論語』にまとめられた。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0008",
+      "order": 8,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "孟子の性善説",
+      "date": {
+        "display": "前4〜前3世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "孟子は人間に善への芽生えが備わるとし、王道政治を説いた。悪政を行う君主への批判も、民を重視する立場から理解する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "性善説と王道政治を説いた儒家の思想家は？",
+        "answer": "孟子",
+        "accepted_answers": [
+          "孟子"
+        ],
+        "explanation": "孟子は人間に善への芽生えが備わるとし、王道政治を説いた。悪政を行う君主への批判も、民を重視する立場から理解する。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0009",
+      "order": 9,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "荀子の性悪説",
+      "date": {
+        "display": "前3世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "荀子は欲望に従えば争いが起こると考え、礼や教育による矯正を重視した。人間観を孟子と比較すると理解しやすい。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "性悪説に立ち、礼と教育の役割を重視した儒家は？",
+        "answer": "荀子",
+        "accepted_answers": [
+          "荀子"
+        ],
+        "explanation": "荀子は欲望に従えば争いが起こると考え、礼や教育による矯正を重視した。人間観を孟子と比較すると理解しやすい。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0010",
+      "order": 10,
+      "module_id": "M01",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "法家と韓非",
+      "date": {
+        "display": "前4〜前3世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "韓非は法・術・勢を重視して君主権力を支える政治思想を論じた。徳による感化を重視する儒家との違いが重要である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "法・術・勢による統治を論じた戦国末期の思想家は？",
+        "answer": "韓非",
+        "accepted_answers": [
+          "韓非",
+          "韓非子"
+        ],
+        "explanation": "韓非は法・術・勢を重視して君主権力を支える政治思想を論じた。徳による感化を重視する儒家との違いが重要である。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0011",
+      "order": 11,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "秦の中国統一",
+      "date": {
+        "display": "前221年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "秦王政が戦国諸国を統一して始皇帝を称した。郡県制や文字・度量衡の統一によって、中央から地方を統治する仕組みを進めた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "前221年に中国を統一した王朝は？",
+        "answer": "秦",
+        "accepted_answers": [
+          "秦"
+        ],
+        "explanation": "秦王政が戦国諸国を統一して始皇帝を称した。郡県制や文字・度量衡の統一によって、中央から地方を統治する仕組みを進めた。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0012",
+      "order": 12,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "兵馬俑",
+      "date": {
+        "display": "前3世紀末",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "始皇帝陵に伴う軍団をかたどった俑群。死後の皇帝を守る副葬施設であり、秦の軍事組織や工芸技術を考える資料となる。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "始皇帝陵の近くに埋められた、兵士や馬をかたどる俑群は？",
+        "answer": "兵馬俑",
+        "accepted_answers": [
+          "兵馬俑"
+        ],
+        "explanation": "始皇帝陵に伴う軍団をかたどった俑群。死後の皇帝を守る副葬施設であり、秦の軍事組織や工芸技術を考える資料となる。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · 秦始皇帝陵",
+          "url": "https://whc.unesco.org/en/list/441"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0013",
+      "order": 13,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "劉邦の即位",
+      "date": {
+        "display": "前202年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "劉邦は項羽との争いを制して漢の皇帝となった。前漢初期は郡と諸侯王国を併置する郡国制を採った。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "漢の高祖として即位した人物は？",
+        "answer": "劉邦",
+        "accepted_answers": [
+          "劉邦"
+        ],
+        "explanation": "劉邦は項羽との争いを制して漢の皇帝となった。前漢初期は郡と諸侯王国を併置する郡国制を採った。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0014",
+      "order": 14,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "武帝と儒学",
+      "date": {
+        "display": "前141〜前87年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "武帝期には董仲舒らの提言を背景に儒学の官学化が進んだ。ただし、法や行政技術が儒学だけに置き換わったわけではない。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "前漢武帝に儒学尊重を説いた学者は？",
+        "answer": "董仲舒",
+        "accepted_answers": [
+          "董仲舒"
+        ],
+        "explanation": "武帝期には董仲舒らの提言を背景に儒学の官学化が進んだ。ただし、法や行政技術が儒学だけに置き換わったわけではない。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0015",
+      "order": 15,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "張騫の派遣",
+      "date": {
+        "display": "前139年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "武帝は匈奴を挟撃するため、大月氏との同盟を求めて張騫を派遣した。同盟は実現しなかったが、西域の情報が漢にもたらされた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "大月氏との同盟を求めて武帝に派遣された人物は？",
+        "answer": "張騫",
+        "accepted_answers": [
+          "張騫"
+        ],
+        "explanation": "武帝は匈奴を挟撃するため、大月氏との同盟を求めて張騫を派遣した。同盟は実現しなかったが、西域の情報が漢にもたらされた。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0016",
+      "order": 16,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "司馬遷の『史記』",
+      "date": {
+        "display": "前1世紀初め頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "『史記』は伝説上の時代から前漢までを扱う紀伝体の歴史書。帝王の本紀と人物の列伝などを組み合わせる構成が特徴である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "司馬遷が著した紀伝体の歴史書は？",
+        "answer": "史記",
+        "accepted_answers": [
+          "史記"
+        ],
+        "explanation": "『史記』は伝説上の時代から前漢までを扱う紀伝体の歴史書。帝王の本紀と人物の列伝などを組み合わせる構成が特徴である。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0017",
+      "order": 17,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "班固と『漢書』",
+      "date": {
+        "display": "1〜2世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "班固らによる『漢書』は主に前漢一代を扱う断代史。広い時代を通観する『史記』との編纂方針の違いを押さえる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "前漢一代を主に扱う、班固らの歴史書は？",
+        "answer": "漢書",
+        "accepted_answers": [
+          "漢書",
+          "班固の漢書"
+        ],
+        "explanation": "班固らによる『漢書』は主に前漢一代を扱う断代史。広い時代を通観する『史記』との編纂方針の違いを押さえる。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0018",
+      "order": 18,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "蔡倫と製紙法の改良",
+      "date": {
+        "display": "105年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "蔡倫は製紙法の改良を後漢の皇帝に報告した。紙はそれ以前にも存在し、105年を紙の発明年と断定するのは適切でない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "105年に製紙法の改良を報告した後漢の人物は？",
+        "answer": "蔡倫",
+        "accepted_answers": [
+          "蔡倫"
+        ],
+        "explanation": "蔡倫は製紙法の改良を後漢の皇帝に報告した。紙はそれ以前にも存在し、105年を紙の発明年と断定するのは適切でない。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0019",
+      "order": 19,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "中国への仏教伝来と翻訳",
+      "date": {
+        "display": "2世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "安世高らが洛陽で仏典を漢訳した。仏教は中央アジアなどを経由して伝わり、中国語での翻訳を通じて受容が進んだ。",
+      "difficulty": {
+        "level": 3,
+        "label": "発展"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "2世紀の洛陽で仏典漢訳に携わった、安息出身の僧は？",
+        "answer": "安世高",
+        "accepted_answers": [
+          "安世高"
+        ],
+        "explanation": "安世高らが洛陽で仏典を漢訳した。仏教は中央アジアなどを経由して伝わり、中国語での翻訳を通じて受容が進んだ。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0020",
+      "order": 20,
+      "module_id": "M02",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "黄巾の乱",
+      "date": {
+        "display": "184年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "張角らが太平道を背景に起こした反乱。後漢は鎮圧したが地方の軍事勢力が強まり、後漢末の分裂を促した。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "張角を中心に184年に起きた反乱は？",
+        "answer": "黄巾の乱",
+        "accepted_answers": [
+          "黄巾の乱"
+        ],
+        "explanation": "張角らが太平道を背景に起こした反乱。後漢は鎮圧したが地方の軍事勢力が強まり、後漢末の分裂を促した。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Ancient China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0021",
+      "order": 21,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "魏の成立",
+      "date": {
+        "display": "220年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "曹丕が後漢の献帝から禅譲を受けて魏を建てた。蜀・呉と並ぶ三国の一つであり、後の北魏とは区別する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "220年に後漢に代わって魏を建てた曹操の子は？",
+        "answer": "曹丕",
+        "accepted_answers": [
+          "曹丕"
+        ],
+        "explanation": "曹丕が後漢の献帝から禅譲を受けて魏を建てた。蜀・呉と並ぶ三国の一つであり、後の北魏とは区別する。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0022",
+      "order": 22,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "九品中正法",
+      "date": {
+        "display": "3世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "地方の人物を中正官が評価する官吏登用制度。魏で始まり、次第に家柄が重視され、門閥貴族の優位を支えた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "魏で始まり、門閥貴族の優位と結びついた官吏登用制度は？",
+        "answer": "九品中正法",
+        "accepted_answers": [
+          "九品中正法"
+        ],
+        "explanation": "地方の人物を中正官が評価する官吏登用制度。魏で始まり、次第に家柄が重視され、門閥貴族の優位を支えた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0023",
+      "order": 23,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "西晋による統一",
+      "date": {
+        "display": "280年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "司馬炎の西晋が呉を滅ぼして中国を再統一した。しかし統一は長続きせず、内乱や北方諸勢力の進出で分裂が進んだ。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "280年に呉を滅ぼして中国を統一した王朝は？",
+        "answer": "西晋",
+        "accepted_answers": [
+          "西晋"
+        ],
+        "explanation": "司馬炎の西晋が呉を滅ぼして中国を再統一した。しかし統一は長続きせず、内乱や北方諸勢力の進出で分裂が進んだ。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0024",
+      "order": 24,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "東晋の成立",
+      "date": {
+        "display": "317年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "司馬睿が建康を都に東晋を成立させた。北から移住した人々や江南の有力者に支えられ、江南開発も進んだ。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "東晋の都で、現在の南京にあたる都市名は？",
+        "answer": "建康",
+        "accepted_answers": [
+          "建康",
+          "南京"
+        ],
+        "explanation": "司馬睿が建康を都に東晋を成立させた。北から移住した人々や江南の有力者に支えられ、江南開発も進んだ。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0025",
+      "order": 25,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "王羲之の書",
+      "date": {
+        "display": "4世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "東晋の王羲之は書聖と呼ばれ、行書の『蘭亭序』で名高い。書が士大夫の教養として重視されたことを示す。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『蘭亭序』で知られる東晋の書家は？",
+        "answer": "王羲之",
+        "accepted_answers": [
+          "王羲之"
+        ],
+        "explanation": "東晋の王羲之は書聖と呼ばれ、行書の『蘭亭序』で名高い。書が士大夫の教養として重視されたことを示す。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0026",
+      "order": 26,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "陶淵明の田園詩",
+      "date": {
+        "display": "4〜5世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "陶淵明は官職を退き、田園生活を題材とする詩や『帰去来辞』を残した。政治から距離を置く知識人の生き方とも結びつく。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『帰去来辞』で知られる詩人は？",
+        "answer": "陶淵明",
+        "accepted_answers": [
+          "陶淵明",
+          "陶潜"
+        ],
+        "explanation": "陶淵明は官職を退き、田園生活を題材とする詩や『帰去来辞』を残した。政治から距離を置く知識人の生き方とも結びつく。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0027",
+      "order": 27,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "法顕の求法旅行",
+      "date": {
+        "display": "399〜412年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "東晋の法顕は戒律を求めてインド方面へ旅し、帰国後『仏国記』を残した。唐代の玄奘より前の旅行である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『仏国記』を残した東晋の求法僧は？",
+        "answer": "法顕",
+        "accepted_answers": [
+          "法顕"
+        ],
+        "explanation": "東晋の法顕は戒律を求めてインド方面へ旅し、帰国後『仏国記』を残した。唐代の玄奘より前の旅行である。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0028",
+      "order": 28,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "雲岡石窟",
+      "date": {
+        "display": "5世紀後半",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "北魏の都・平城付近で造営された仏教石窟。皇帝の保護と結びついた巨大仏が特徴で、西方からの仏教美術の影響もみられる。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "北魏の平城近くで造営された代表的な仏教石窟は？",
+        "answer": "雲岡石窟",
+        "accepted_answers": [
+          "雲岡石窟"
+        ],
+        "explanation": "北魏の都・平城付近で造営された仏教石窟。皇帝の保護と結びついた巨大仏が特徴で、西方からの仏教美術の影響もみられる。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · 雲岡石窟",
+          "url": "https://whc.unesco.org/en/list/1039"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0029",
+      "order": 29,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "孝文帝の洛陽遷都",
+      "date": {
+        "display": "494年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "北魏の孝文帝は平城から洛陽へ遷都し、服装や姓などの漢化政策を進めた。鮮卑系王朝による制度変容として捉える。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "洛陽遷都と漢化政策を進めた北魏の皇帝は？",
+        "answer": "孝文帝",
+        "accepted_answers": [
+          "孝文帝"
+        ],
+        "explanation": "北魏の孝文帝は平城から洛陽へ遷都し、服装や姓などの漢化政策を進めた。鮮卑系王朝による制度変容として捉える。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0030",
+      "order": 30,
+      "module_id": "M03",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "古代",
+      "title": "『斉民要術』",
+      "date": {
+        "display": "6世紀前半頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "賈思勰による農書で、農耕・牧畜・食品加工などを記した。北朝の農業技術と生活を知る資料として重要である。",
+      "difficulty": {
+        "level": 3,
+        "label": "発展"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "賈思勰が著した北朝の代表的な農書は？",
+        "answer": "斉民要術",
+        "accepted_answers": [
+          "斉民要術"
+        ],
+        "explanation": "賈思勰による農書で、農耕・牧畜・食品加工などを記した。北朝の農業技術と生活を知る資料として重要である。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0031",
+      "order": 31,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "隋の再統一",
+      "date": {
+        "display": "589年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "隋の文帝が陳を滅ぼし、南北に分かれていた中国を統一した。唐に引き継がれる中央集権体制の基礎を整えた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "589年に陳を滅ぼし、中国を再統一した王朝は？",
+        "answer": "隋",
+        "accepted_answers": [
+          "隋"
+        ],
+        "explanation": "隋の文帝が陳を滅ぼし、南北に分かれていた中国を統一した。唐に引き継がれる中央集権体制の基礎を整えた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0032",
+      "order": 32,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "大運河の整備",
+      "date": {
+        "display": "7世紀初め",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "隋の煬帝は既存の水路を利用して大運河の整備を進めた。南北の物資輸送に役立った一方、重い労役は反乱の背景となった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "大運河の大規模整備で知られる隋の皇帝は？",
+        "answer": "煬帝",
+        "accepted_answers": [
+          "煬帝"
+        ],
+        "explanation": "隋の煬帝は既存の水路を利用して大運河の整備を進めた。南北の物資輸送に役立った一方、重い労役は反乱の背景となった。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0033",
+      "order": 33,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "科挙の発展",
+      "date": {
+        "display": "隋〜唐代",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "試験による官吏登用は隋唐期に制度化が進んだ。唐代には貴族の影響も強く、試験だけで政治社会が一変したわけではない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "試験を通じて官吏を登用する、中国の制度は？",
+        "answer": "科挙",
+        "accepted_answers": [
+          "科挙"
+        ],
+        "explanation": "試験による官吏登用は隋唐期に制度化が進んだ。唐代には貴族の影響も強く、試験だけで政治社会が一変したわけではない。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0034",
+      "order": 34,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "唐の成立",
+      "date": {
+        "display": "618年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "李淵が長安で唐を建てた。唐は隋の制度を受け継ぎ、東アジアの周辺諸国にも制度や文化の影響を与えた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "唐を建国した高祖の名は？",
+        "answer": "李淵",
+        "accepted_answers": [
+          "李淵"
+        ],
+        "explanation": "李淵が長安で唐を建てた。唐は隋の制度を受け継ぎ、東アジアの周辺諸国にも制度や文化の影響を与えた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0035",
+      "order": 35,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "貞観の治",
+      "date": {
+        "display": "626〜649年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "太宗・李世民の治世は、政治の安定を示す貞観の治と呼ばれる。高宗や玄宗の治世と取り違えない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "貞観の治で知られる唐の皇帝は？",
+        "answer": "太宗",
+        "accepted_answers": [
+          "太宗",
+          "李世民",
+          "唐の太宗"
+        ],
+        "explanation": "太宗・李世民の治世は、政治の安定を示す貞観の治と呼ばれる。高宗や玄宗の治世と取り違えない。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0036",
+      "order": 36,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "玄奘の求法旅行",
+      "date": {
+        "display": "629〜645年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "玄奘は陸路でインドへ向かい、ナーランダーで学んだ。帰国後に多くの仏典を漢訳し、旅の記録は『大唐西域記』にまとめられた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『大唐西域記』に結びつく唐の求法僧は？",
+        "answer": "玄奘",
+        "accepted_answers": [
+          "玄奘"
+        ],
+        "explanation": "玄奘は陸路でインドへ向かい、ナーランダーで学んだ。帰国後に多くの仏典を漢訳し、旅の記録は『大唐西域記』にまとめられた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0037",
+      "order": 37,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "義浄と海上交通",
+      "date": {
+        "display": "671年出発",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "義浄は海路でインドへ向かい、途中シュリーヴィジャヤにも滞在した。仏教交流には陸上の道だけでなく海上航路も重要だった。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "シュリーヴィジャヤを経由して海路で求法した唐僧は？",
+        "answer": "義浄",
+        "accepted_answers": [
+          "義浄"
+        ],
+        "explanation": "義浄は海路でインドへ向かい、途中シュリーヴィジャヤにも滞在した。仏教交流には陸上の道だけでなく海上航路も重要だった。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0038",
+      "order": 38,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "タラス河畔の戦い",
+      "date": {
+        "display": "751年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "唐軍とアッバース朝側の軍が中央アジアで戦った。製紙技術伝播と関連づけられるが、技術移転をこの戦いだけで説明しない。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "751年、唐とアッバース朝側が戦った場所に由来する戦いは？",
+        "answer": "タラス河畔の戦い",
+        "accepted_answers": [
+          "タラス河畔の戦い"
+        ],
+        "explanation": "唐軍とアッバース朝側の軍が中央アジアで戦った。製紙技術伝播と関連づけられるが、技術移転をこの戦いだけで説明しない。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0039",
+      "order": 39,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "安史の乱",
+      "date": {
+        "display": "755〜763年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "安禄山・史思明らの反乱で唐は大きく動揺した。地方の節度使の勢力が強まり、財政・軍事制度の変化が進んだ。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "安禄山らが起こし、唐の支配を揺るがした反乱は？",
+        "answer": "安史の乱",
+        "accepted_answers": [
+          "安史の乱"
+        ],
+        "explanation": "安禄山・史思明らの反乱で唐は大きく動揺した。地方の節度使の勢力が強まり、財政・軍事制度の変化が進んだ。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0040",
+      "order": 40,
+      "module_id": "M04",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "両税法",
+      "date": {
+        "display": "780年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "徳宗期に楊炎の建議で実施された。財産や土地を基準に夏と秋に徴税し、租庸調制の行き詰まりに対応した。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "唐が780年に導入した、夏と秋に徴税する制度は？",
+        "answer": "両税法",
+        "accepted_answers": [
+          "両税法"
+        ],
+        "explanation": "徳宗期に楊炎の建議で実施された。財産や土地を基準に夏と秋に徴税し、租庸調制の行き詰まりに対応した。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0041",
+      "order": 41,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "李白の詩",
+      "date": {
+        "display": "8世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "李白は自由で雄大な詩風で知られ、詩仙と呼ばれる。杜甫と並ぶ唐詩の代表者で、同じ時代でも作風の違いがある。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "詩仙と呼ばれる唐の詩人は？",
+        "answer": "李白",
+        "accepted_answers": [
+          "李白"
+        ],
+        "explanation": "李白は自由で雄大な詩風で知られ、詩仙と呼ばれる。杜甫と並ぶ唐詩の代表者で、同じ時代でも作風の違いがある。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0042",
+      "order": 42,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "杜甫の詩",
+      "date": {
+        "display": "8世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "杜甫は戦乱や人々の苦しみを詠み、詩聖と呼ばれる。安史の乱の時代背景と作品を結びつけると理解が深まる。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "詩聖と呼ばれ、戦乱や民衆の苦しみを詠んだ唐詩人は？",
+        "answer": "杜甫",
+        "accepted_answers": [
+          "杜甫"
+        ],
+        "explanation": "杜甫は戦乱や人々の苦しみを詠み、詩聖と呼ばれる。安史の乱の時代背景と作品を結びつけると理解が深まる。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0043",
+      "order": 43,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "韓愈と古文復興",
+      "date": {
+        "display": "8〜9世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "韓愈は簡潔で内容を重視する古文を推進した。柳宗元と並び、装飾的な四六駢儷文に対する文章改革で知られる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "柳宗元とともに古文復興を進めた唐の文章家は？",
+        "answer": "韓愈",
+        "accepted_answers": [
+          "韓愈"
+        ],
+        "explanation": "韓愈は簡潔で内容を重視する古文を推進した。柳宗元と並び、装飾的な四六駢儷文に対する文章改革で知られる。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0044",
+      "order": 44,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "唐三彩",
+      "date": {
+        "display": "7〜8世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "緑・褐色・白などの釉薬を用いる低火度焼成の陶器。墓に納める人物や馬・駱駝の俑は、唐の国際的な交流も示す。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "唐代の多彩な施釉陶器で、馬や駱駝の俑でも知られるものは？",
+        "answer": "唐三彩",
+        "accepted_answers": [
+          "唐三彩"
+        ],
+        "explanation": "緑・褐色・白などの釉薬を用いる低火度焼成の陶器。墓に納める人物や馬・駱駝の俑は、唐の国際的な交流も示す。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0045",
+      "order": 45,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "北宋の成立",
+      "date": {
+        "display": "960年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "趙匡胤は宋を建て、武人の力を抑える文治主義を進めた。科挙出身の官僚が政治と文化で重要な役割を担った。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "北宋を建てた太祖の名は？",
+        "answer": "趙匡胤",
+        "accepted_answers": [
+          "趙匡胤"
+        ],
+        "explanation": "趙匡胤は宋を建て、武人の力を抑える文治主義を進めた。科挙出身の官僚が政治と文化で重要な役割を担った。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0046",
+      "order": 46,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "交子と商業経済",
+      "date": {
+        "display": "11世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "北宋の四川で紙幣の交子が使われた。商業や貨幣経済の発展を示すが、金属貨幣が全面的に消えたわけではない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "北宋の四川で流通した紙幣は？",
+        "answer": "交子",
+        "accepted_answers": [
+          "交子",
+          "北宋の交子"
+        ],
+        "explanation": "北宋の四川で紙幣の交子が使われた。商業や貨幣経済の発展を示すが、金属貨幣が全面的に消えたわけではない。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0047",
+      "order": 47,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "畢昇の活字印刷",
+      "date": {
+        "display": "11世紀中頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "畢昇は膠泥を用いた活字印刷を工夫した。文字を版ごとに彫る木版印刷と、個々の活字を組む方式を区別する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "北宋で膠泥活字を工夫した人物は？",
+        "answer": "畢昇",
+        "accepted_answers": [
+          "畢昇"
+        ],
+        "explanation": "畢昇は膠泥を用いた活字印刷を工夫した。文字を版ごとに彫る木版印刷と、個々の活字を組む方式を区別する。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0048",
+      "order": 48,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "沈括の『夢渓筆談』",
+      "date": {
+        "display": "1088年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "沈括は自然現象や技術に関する知見を記録した。磁針や畢昇の活字などを伝え、宋代の科学技術を知る資料となる。",
+      "difficulty": {
+        "level": 3,
+        "label": "発展"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "沈括が科学技術などの知見を記した書物は？",
+        "answer": "夢渓筆談",
+        "accepted_answers": [
+          "夢渓筆談"
+        ],
+        "explanation": "沈括は自然現象や技術に関する知見を記録した。磁針や畢昇の活字などを伝え、宋代の科学技術を知る資料となる。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0049",
+      "order": 49,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "朱熹と朱子学",
+      "date": {
+        "display": "12世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "朱熹は理気論を体系化し、四書を重視した。学問と自己修養を結びつける思想は、朝鮮や日本にも影響した。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "四書を重視し、宋学を体系化した南宋の儒学者は？",
+        "answer": "朱熹",
+        "accepted_answers": [
+          "朱熹",
+          "朱子"
+        ],
+        "explanation": "朱熹は理気論を体系化し、四書を重視した。学問と自己修養を結びつける思想は、朝鮮や日本にも影響した。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0050",
+      "order": 50,
+      "module_id": "M05",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "蘇軾と文人文化",
+      "date": {
+        "display": "11〜12世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "蘇軾は詩文・書・画に活躍した北宋の文人。士大夫の教養や精神表現を重視する文人画の理解にも関わる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "号を東坡といい、詩文・書・画に活躍した北宋の文人は？",
+        "answer": "蘇軾",
+        "accepted_answers": [
+          "蘇軾",
+          "蘇東坡"
+        ],
+        "explanation": "蘇軾は詩文・書・画に活躍した北宋の文人。士大夫の教養や精神表現を重視する文人画の理解にも関わる。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0051",
+      "order": 51,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "澶淵の盟",
+      "date": {
+        "display": "1004年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "宋と契丹の遼は講和し、宋が歳幣を送る関係となった。軍事的対立と外交・交易の共存を示す事例である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1004年に宋と遼が結んだ講和は？",
+        "answer": "澶淵の盟",
+        "accepted_answers": [
+          "澶淵の盟"
+        ],
+        "explanation": "宋と契丹の遼は講和し、宋が歳幣を送る関係となった。軍事的対立と外交・交易の共存を示す事例である。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Song China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0052",
+      "order": 52,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "西夏の成立",
+      "date": {
+        "display": "1038年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "タングートの李元昊が皇帝を称した。西夏は中国西北部の交通路を押さえ、独自の西夏文字も用いた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1038年に西夏で皇帝を称した人物は？",
+        "answer": "李元昊",
+        "accepted_answers": [
+          "李元昊"
+        ],
+        "explanation": "タングートの李元昊が皇帝を称した。西夏は中国西北部の交通路を押さえ、独自の西夏文字も用いた。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Song China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0053",
+      "order": 53,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "金の成立",
+      "date": {
+        "display": "1115年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "女真の完顔阿骨打が金を建てた。金は遼を滅ぼし、さらに北宋を倒して中国北部を支配した。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "金を建国した女真の指導者は？",
+        "answer": "完顔阿骨打",
+        "accepted_answers": [
+          "完顔阿骨打",
+          "阿骨打",
+          "アグダ"
+        ],
+        "explanation": "女真の完顔阿骨打が金を建てた。金は遼を滅ぼし、さらに北宋を倒して中国北部を支配した。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Song China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0054",
+      "order": 54,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "靖康の変と南宋",
+      "date": {
+        "display": "1127年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "金軍に徽宗・欽宗が連行され、北宋は滅亡した。趙構が宋を再建し、後に臨安を都とする南宋となった。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "北宋滅亡につながった1127年の事件は？",
+        "answer": "靖康の変",
+        "accepted_answers": [
+          "靖康の変"
+        ],
+        "explanation": "金軍に徽宗・欽宗が連行され、北宋は滅亡した。趙構が宋を再建し、後に臨安を都とする南宋となった。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Song China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0055",
+      "order": 55,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "王安石の新法",
+      "date": {
+        "display": "1069年以降",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "神宗のもとで青苗法や募役法などを実施し、財政と軍事の強化を目指した。司馬光ら旧法党の反対で政治対立が深まった。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "北宋の神宗期に新法を進めた政治家は？",
+        "answer": "王安石",
+        "accepted_answers": [
+          "王安石"
+        ],
+        "explanation": "神宗のもとで青苗法や募役法などを実施し、財政と軍事の強化を目指した。司馬光ら旧法党の反対で政治対立が深まった。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Song China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0056",
+      "order": 56,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "チンギス＝ハンの即位",
+      "date": {
+        "display": "1206年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "テムジンはモンゴル高原を統合し、クリルタイでチンギス＝ハンに推戴された。ユーラシアに拡大する帝国の出発点となった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1206年にチンギス＝ハンに推戴された人物の元の名は？",
+        "answer": "テムジン",
+        "accepted_answers": [
+          "テムジン",
+          "テムジン（チンギス＝ハン）"
+        ],
+        "explanation": "テムジンはモンゴル高原を統合し、クリルタイでチンギス＝ハンに推戴された。ユーラシアに拡大する帝国の出発点となった。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Chinggis Khan",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/14-2-chinggis-khan-and-the-early-mongol-empire"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0057",
+      "order": 57,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "駅伝制ジャムチ",
+      "date": {
+        "display": "13世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "モンゴルの駅伝制は駅と馬を配置し、使者や公的な移動を支えた。広域支配と情報伝達を可能にする基盤であった。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "モンゴル帝国の駅伝制を何という？",
+        "answer": "ジャムチ",
+        "accepted_answers": [
+          "ジャムチ",
+          "ジャムチ制",
+          "站赤"
+        ],
+        "explanation": "モンゴルの駅伝制は駅と馬を配置し、使者や公的な移動を支えた。広域支配と情報伝達を可能にする基盤であった。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · Chinggis Khan",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/14-2-chinggis-khan-and-the-early-mongol-empire"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0058",
+      "order": 58,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "フビライと元の国号",
+      "date": {
+        "display": "1271年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "フビライは大都を拠点に国号を元と定めた。1279年の南宋滅亡と、国号制定の年は区別して覚える。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "フビライが国号を元と定めた年は？",
+        "answer": "1271年",
+        "accepted_answers": [
+          "1271年",
+          "1271",
+          "西暦1271年"
+        ],
+        "explanation": "フビライは大都を拠点に国号を元と定めた。1279年の南宋滅亡と、国号制定の年は区別して覚える。"
+      },
+      "references": [
+        {
+          "label": "The Met · 中国1000〜1400年",
+          "url": "https://www.metmuseum.org/zh/toah/ht/07/eac"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0059",
+      "order": 59,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "南宋の滅亡",
+      "date": {
+        "display": "1279年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "元が南宋を滅ぼし、中国全土を支配下に収めた。モンゴルによる中国統一は、東西の人・物・技術の交流も広げた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "元によって南宋が滅ぼされた年は？",
+        "answer": "1279年",
+        "accepted_answers": [
+          "1279年",
+          "1279",
+          "西暦1279年"
+        ],
+        "explanation": "元が南宋を滅ぼし、中国全土を支配下に収めた。モンゴルによる中国統一は、東西の人・物・技術の交流も広げた。"
+      },
+      "references": [
+        {
+          "label": "The Met · 中国1000〜1400年",
+          "url": "https://www.metmuseum.org/zh/toah/ht/07/eac"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0060",
+      "order": 60,
+      "module_id": "M06",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "元曲と『西廂記』",
+      "date": {
+        "display": "13〜14世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "元代には都市の娯楽として雑劇が栄えた。王実甫の『西廂記』はその代表で、漢詩とは異なる上演芸術の発展を示す。",
+      "difficulty": {
+        "level": 3,
+        "label": "発展"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "元代の雑劇『西廂記』の作者は？",
+        "answer": "王実甫",
+        "accepted_answers": [
+          "王実甫"
+        ],
+        "explanation": "元代には都市の娯楽として雑劇が栄えた。王実甫の『西廂記』はその代表で、漢詩とは異なる上演芸術の発展を示す。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0061",
+      "order": 61,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "明の成立",
+      "date": {
+        "display": "1368年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "朱元璋は南京で明を建て、洪武帝となった。元は大都を失った後も北方に存続し、モンゴル勢力が消えたわけではない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "明を建国した洪武帝の名は？",
+        "answer": "朱元璋",
+        "accepted_answers": [
+          "朱元璋"
+        ],
+        "explanation": "朱元璋は南京で明を建て、洪武帝となった。元は大都を失った後も北方に存続し、モンゴル勢力が消えたわけではない。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0062",
+      "order": 62,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "丞相の廃止",
+      "date": {
+        "display": "1380年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "洪武帝は胡惟庸の事件を機に丞相職を廃し、六部を皇帝に直属させた。皇帝に権力を集中する統治を進めた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "明の洪武帝が廃止し、皇帝権力を強めた最高官職は？",
+        "answer": "丞相",
+        "accepted_answers": [
+          "丞相"
+        ],
+        "explanation": "洪武帝は胡惟庸の事件を機に丞相職を廃し、六部を皇帝に直属させた。皇帝に権力を集中する統治を進めた。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0063",
+      "order": 63,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "靖難の役と永楽帝",
+      "date": {
+        "display": "1402年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "燕王朱棣が建文帝を倒して永楽帝となった。皇位継承をめぐる内戦であり、対外遠征そのものを指す語ではない。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "永楽帝が即位する契機となった内戦は？",
+        "answer": "靖難の役",
+        "accepted_answers": [
+          "靖難の役"
+        ],
+        "explanation": "燕王朱棣が建文帝を倒して永楽帝となった。皇位継承をめぐる内戦であり、対外遠征そのものを指す語ではない。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0064",
+      "order": 64,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "鄭和の航海",
+      "date": {
+        "display": "1405〜1433年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "鄭和は永楽帝らの命令で南海遠征を指揮し、インド洋方面まで航海した。朝貢関係の拡大や皇帝の威信と結びつく。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "明の大規模な南海遠征を指揮した宦官は？",
+        "answer": "鄭和",
+        "accepted_answers": [
+          "鄭和"
+        ],
+        "explanation": "鄭和は永楽帝らの命令で南海遠征を指揮し、インド洋方面まで航海した。朝貢関係の拡大や皇帝の威信と結びつく。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0065",
+      "order": 65,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "北京遷都",
+      "date": {
+        "display": "1421年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "永楽帝は正式に都を南京から北京へ移した。北京は北方への軍事対応に適した政治中心となり、紫禁城が宮城として用いられた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1421年、永楽帝が正式に都を移した都市は？",
+        "answer": "北京",
+        "accepted_answers": [
+          "北京"
+        ],
+        "explanation": "永楽帝は正式に都を南京から北京へ移した。北京は北方への軍事対応に適した政治中心となり、紫禁城が宮城として用いられた。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0066",
+      "order": 66,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "土木の変",
+      "date": {
+        "display": "1449年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "明の正統帝がオイラトのエセンに捕らえられた事件。明と北方勢力の関係を示し、永楽帝期の遠征とは異なる局面である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "正統帝がオイラトに捕らえられた事件は？",
+        "answer": "土木の変",
+        "accepted_answers": [
+          "土木の変"
+        ],
+        "explanation": "明の正統帝がオイラトのエセンに捕らえられた事件。明と北方勢力の関係を示し、永楽帝期の遠征とは異なる局面である。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0067",
+      "order": 67,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "王陽明と陽明学",
+      "date": {
+        "display": "16世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "王守仁は心即理・知行合一・致良知を説いた。知識と実践を切り離さない立場は、朱子学との比較で問われる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "知行合一を説き、陽明学を開いた思想家は？",
+        "answer": "王守仁",
+        "accepted_answers": [
+          "王守仁",
+          "王陽明"
+        ],
+        "explanation": "王守仁は心即理・知行合一・致良知を説いた。知識と実践を切り離さない立場は、朱子学との比較で問われる。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0068",
+      "order": 68,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "一条鞭法",
+      "date": {
+        "display": "1581年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "張居正の時期に全国的な実施が進み、税や役をまとめて銀納する方向へ整理した。地域差があり、一度にすべてが統一されたわけではない。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "明で税・役をまとめ、銀納を進めた税制は？",
+        "answer": "一条鞭法",
+        "accepted_answers": [
+          "一条鞭法"
+        ],
+        "explanation": "張居正の時期に全国的な実施が進み、税や役をまとめて銀納する方向へ整理した。地域差があり、一度にすべてが統一されたわけではない。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0069",
+      "order": 69,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "『本草綱目』",
+      "date": {
+        "display": "1596年刊",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "李時珍が薬物に関する知識を集成した。明代の実用的な学問を示し、宋応星の『天工開物』と区別する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "李時珍が著した本草学の大著は？",
+        "answer": "本草綱目",
+        "accepted_answers": [
+          "本草綱目"
+        ],
+        "explanation": "李時珍が薬物に関する知識を集成した。明代の実用的な学問を示し、宋応星の『天工開物』と区別する。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0070",
+      "order": 70,
+      "module_id": "M07",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "『天工開物』",
+      "date": {
+        "display": "1637年刊",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "宋応星が農業・製造業の工程を図入りでまとめた。技術を体系的に記録した明末の書物として重要である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "宋応星が著した産業技術の書物は？",
+        "answer": "天工開物",
+        "accepted_answers": [
+          "天工開物"
+        ],
+        "explanation": "宋応星が農業・製造業の工程を図入りでまとめた。技術を体系的に記録した明末の書物として重要である。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · From the Mamluks to Ming China",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/17-2-from-the-mamluks-to-ming-china"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0071",
+      "order": 71,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "後金の成立",
+      "date": {
+        "display": "1616年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ヌルハチが女真諸部を統合し、後金を建てた。軍事・社会組織である八旗が国家形成を支えた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1616年に後金を建てた人物は？",
+        "answer": "ヌルハチ",
+        "accepted_answers": [
+          "ヌルハチ"
+        ],
+        "explanation": "ヌルハチが女真諸部を統合し、後金を建てた。軍事・社会組織である八旗が国家形成を支えた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0072",
+      "order": 72,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "清への国号変更",
+      "date": {
+        "display": "1636年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ホンタイジは国号を後金から清へ改めた。清の中国本土への本格的支配拡大は、1644年の北京入城以後である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "後金の国号を清へ改めた人物は？",
+        "answer": "ホンタイジ",
+        "accepted_answers": [
+          "ホンタイジ"
+        ],
+        "explanation": "ホンタイジは国号を後金から清へ改めた。清の中国本土への本格的支配拡大は、1644年の北京入城以後である。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0073",
+      "order": 73,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "清の北京入城",
+      "date": {
+        "display": "1644年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "李自成の軍によって北京の明朝が倒れた後、清軍が入城した。明の残存政権や抵抗勢力との戦争はその後も続いた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "清が北京に入城した年は？",
+        "answer": "1644年",
+        "accepted_answers": [
+          "1644年"
+        ],
+        "explanation": "李自成の軍によって北京の明朝が倒れた後、清軍が入城した。明の残存政権や抵抗勢力との戦争はその後も続いた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0074",
+      "order": 74,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "ネルチンスク条約",
+      "date": {
+        "display": "1689年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "清とロシアが国境をめぐって結んだ条約。康熙帝期の北方外交を示し、19世紀のアイグン条約とは区別する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1689年に清とロシアが結んだ条約は？",
+        "answer": "ネルチンスク条約",
+        "accepted_answers": [
+          "ネルチンスク条約"
+        ],
+        "explanation": "清とロシアが国境をめぐって結んだ条約。康熙帝期の北方外交を示し、19世紀のアイグン条約とは区別する。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0075",
+      "order": 75,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "地丁銀制",
+      "date": {
+        "display": "18世紀前半",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "雍正帝期に広く整備され、人頭税の丁銀を土地税の地銀に組み込んだ。人口と土地に課す税の関係の変化を押さえる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "清で丁銀を地銀に組み込んだ税制は？",
+        "answer": "地丁銀制",
+        "accepted_answers": [
+          "地丁銀制",
+          "地丁銀"
+        ],
+        "explanation": "雍正帝期に広く整備され、人頭税の丁銀を土地税の地銀に組み込んだ。人口と土地に課す税の関係の変化を押さえる。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0076",
+      "order": 76,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "考証学",
+      "date": {
+        "display": "18世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "古典を文字・音韻・史料の検討から実証的に研究した。顧炎武や戴震などを、明清の学問の流れの中で理解する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "清代に発展した、古典を実証的に検討する学問は？",
+        "answer": "考証学",
+        "accepted_answers": [
+          "考証学"
+        ],
+        "explanation": "古典を文字・音韻・史料の検討から実証的に研究した。顧炎武や戴震などを、明清の学問の流れの中で理解する。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0077",
+      "order": 77,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "『紅楼夢』",
+      "date": {
+        "display": "18世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "曹雪芹が中心となって執筆した長編小説で、貴族的な家の盛衰を描く。現在の通行本の後半の成立には別の編者の関与がある。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "曹雪芹の名と結びつく、清代の代表的な長編小説は？",
+        "answer": "紅楼夢",
+        "accepted_answers": [
+          "紅楼夢"
+        ],
+        "explanation": "曹雪芹が中心となって執筆した長編小説で、貴族的な家の盛衰を描く。現在の通行本の後半の成立には別の編者の関与がある。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0078",
+      "order": 78,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "『四庫全書』",
+      "date": {
+        "display": "1770〜1780年代中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "乾隆帝の命で経・史・子・集の書物を集成した。文化事業である一方、禁書や思想統制とも結びついていた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "乾隆帝の命で編纂された、経史子集を含む大叢書は？",
+        "answer": "四庫全書",
+        "accepted_answers": [
+          "四庫全書"
+        ],
+        "explanation": "乾隆帝の命で経・史・子・集の書物を集成した。文化事業である一方、禁書や思想統制とも結びついていた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0079",
+      "order": 79,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近代",
+      "title": "アヘン戦争",
+      "date": {
+        "display": "1840〜1842年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アヘン取締りなどを背景に清とイギリスが戦った。敗れた清は南京条約を結び、香港島の割譲や五港開港を認めた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "アヘン戦争を終結させた1842年の条約は？",
+        "answer": "南京条約",
+        "accepted_answers": [
+          "南京条約"
+        ],
+        "explanation": "アヘン取締りなどを背景に清とイギリスが戦った。敗れた清は南京条約を結び、香港島の割譲や五港開港を認めた。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0080",
+      "order": 80,
+      "module_id": "M08",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近代",
+      "title": "辛亥革命",
+      "date": {
+        "display": "1911年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "武昌蜂起をきっかけに革命が広がり、1912年に中華民国が成立した。清帝の退位も1912年であり、革命勃発年と区別する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "武昌蜂起に始まり、清朝終焉につながった革命は？",
+        "answer": "辛亥革命",
+        "accepted_answers": [
+          "辛亥革命"
+        ],
+        "explanation": "武昌蜂起をきっかけに革命が広がり、1912年に中華民国が成立した。清帝の退位も1912年であり、革命勃発年と区別する。"
+      },
+      "references": [
+        {
+          "label": "Smithsonian · 中国史・美術年表",
+          "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0081",
+      "order": 81,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "高句麗・百済・新羅",
+      "date": {
+        "display": "4〜7世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "朝鮮半島とその周辺で三国が競合した。中国諸王朝や倭との外交、仏教や工芸技術の伝播にも関わった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "高句麗・百済と並ぶ、朝鮮三国の一つは？",
+        "answer": "新羅",
+        "accepted_answers": [
+          "新羅"
+        ],
+        "explanation": "朝鮮半島とその周辺で三国が競合した。中国諸王朝や倭との外交、仏教や工芸技術の伝播にも関わった。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · 朝鮮・日本・東南アジア",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0082",
+      "order": 82,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "新羅の半島支配拡大",
+      "date": {
+        "display": "668〜676年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "新羅は唐と協力して百済・高句麗を滅ぼした後、唐との戦いを経て半島の大部分を支配した。旧高句麗領の全域を統一したわけではない。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "唐と協力して百済・高句麗を滅ぼし、後に唐と戦った王国は？",
+        "answer": "新羅",
+        "accepted_answers": [
+          "新羅"
+        ],
+        "explanation": "新羅は唐と協力して百済・高句麗を滅ぼした後、唐との戦いを経て半島の大部分を支配した。旧高句麗領の全域を統一したわけではない。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · 朝鮮・日本・東南アジア",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0083",
+      "order": 83,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "渤海の成立",
+      "date": {
+        "display": "698年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "大祚栄が旧高句麗領の一部などを基盤に国家を建てた。渤海は唐の制度を取り入れ、日本とも使節を往来させた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "渤海を建国した人物は？",
+        "answer": "大祚栄",
+        "accepted_answers": [
+          "大祚栄",
+          "大祚榮"
+        ],
+        "explanation": "大祚栄が旧高句麗領の一部などを基盤に国家を建てた。渤海は唐の制度を取り入れ、日本とも使節を往来させた。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · 朝鮮・日本・東南アジア",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0084",
+      "order": 84,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "石窟庵と仏国寺",
+      "date": {
+        "display": "8世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "慶州の石窟庵と仏国寺は、新羅の仏教文化を代表する。石窟庵は花崗岩を組み上げた人工石窟である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "仏国寺とともに新羅の仏教美術を代表する慶州の人工石窟は？",
+        "answer": "石窟庵",
+        "accepted_answers": [
+          "石窟庵"
+        ],
+        "explanation": "慶州の石窟庵と仏国寺は、新羅の仏教文化を代表する。石窟庵は花崗岩を組み上げた人工石窟である。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · 石窟庵と仏国寺",
+          "url": "https://whc.unesco.org/en/list/736"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0085",
+      "order": 85,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "高麗の成立",
+      "date": {
+        "display": "918年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "王建が高麗を建て、936年に後三国を統一した。建国と再統一の年の違いを押さえる。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "918年に高麗を建国した人物は？",
+        "answer": "王建",
+        "accepted_answers": [
+          "王建"
+        ],
+        "explanation": "王建が高麗を建て、936年に後三国を統一した。建国と再統一の年の違いを押さえる。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · 朝鮮・日本・東南アジア",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0086",
+      "order": 86,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "高麗大蔵経",
+      "date": {
+        "display": "13世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "モンゴル侵攻の時代に再彫された仏典の版木群が海印寺に伝わる。仏教信仰と高度な木版印刷技術を示す。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "高麗大蔵経の版木が保存されている寺は？",
+        "answer": "海印寺",
+        "accepted_answers": [
+          "海印寺"
+        ],
+        "explanation": "モンゴル侵攻の時代に再彫された仏典の版木群が海印寺に伝わる。仏教信仰と高度な木版印刷技術を示す。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · 海印寺蔵経板殿",
+          "url": "https://whc.unesco.org/en/list/737"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0087",
+      "order": 87,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "『直指』と金属活字",
+      "date": {
+        "display": "1377年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "高麗で金属活字を用いて印刷された仏教書。現存する金属活字印刷本として最古とされ、グーテンベルク以前の印刷史を示す。",
+      "difficulty": {
+        "level": 3,
+        "label": "発展"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1377年に高麗で金属活字により印刷された仏教書は？",
+        "answer": "直指",
+        "accepted_answers": [
+          "直指",
+          "直指心体要節",
+          "仏祖直指心体要節"
+        ],
+        "explanation": "高麗で金属活字を用いて印刷された仏教書。現存する金属活字印刷本として最古とされ、グーテンベルク以前の印刷史を示す。"
+      },
+      "references": [
+        {
+          "label": "UNESCOイタリア委員会 · 世界の記憶・直指",
+          "url": "https://www.unesco.it/it/iniziative-dellunesco/memoria-del-mondo/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0088",
+      "order": 88,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "朝鮮王朝の成立",
+      "date": {
+        "display": "1392年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "李成桂が高麗に代わって朝鮮王朝を建てた。朱子学を国家の理念として重視し、漢城を都とした。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "朝鮮王朝を建国した人物は？",
+        "answer": "李成桂",
+        "accepted_answers": [
+          "李成桂"
+        ],
+        "explanation": "李成桂が高麗に代わって朝鮮王朝を建てた。朱子学を国家の理念として重視し、漢城を都とした。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · 朝鮮・日本・東南アジア",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0089",
+      "order": 89,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "訓民正音の公布",
+      "date": {
+        "display": "1446年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "世宗のもとで作られた文字の原理と用法が『訓民正音』として公布された。文字の完成は1443年とされ、公布年と区別する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "訓民正音を公布した朝鮮王朝の王は？",
+        "answer": "世宗",
+        "accepted_answers": [
+          "世宗",
+          "世宗大王"
+        ],
+        "explanation": "世宗のもとで作られた文字の原理と用法が『訓民正音』として公布された。文字の完成は1443年とされ、公布年と区別する。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · 朝鮮・日本・東南アジア",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0090",
+      "order": 90,
+      "module_id": "M09",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "豊臣秀吉の朝鮮侵略",
+      "date": {
+        "display": "1592〜1598年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "朝鮮軍・義兵・明軍などが日本軍と戦った。李舜臣の水軍も抵抗に重要な役割を果たし、東アジア規模の戦争となった。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "秀吉の侵略に対し、朝鮮水軍を指揮して抵抗した将軍は？",
+        "answer": "李舜臣",
+        "accepted_answers": [
+          "李舜臣"
+        ],
+        "explanation": "朝鮮軍・義兵・明軍などが日本軍と戦った。李舜臣の水軍も抵抗に重要な役割を果たし、東アジア規模の戦争となった。"
+      },
+      "references": [
+        {
+          "label": "OpenStax · 朝鮮・日本・東南アジア",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0091",
+      "order": 91,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "遣唐使",
+      "date": {
+        "display": "7〜9世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "日本は唐に使節を送り、律令・仏教・文学などを学んだ。使節派遣だけでなく僧侶や商人の往来も文化交流を支えた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "日本が唐へ送った公式の使節は？",
+        "answer": "遣唐使",
+        "accepted_answers": [
+          "遣唐使"
+        ],
+        "explanation": "日本は唐に使節を送り、律令・仏教・文学などを学んだ。使節派遣だけでなく僧侶や商人の往来も文化交流を支えた。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0092",
+      "order": 92,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "中世",
+      "title": "鑑真の来日",
+      "date": {
+        "display": "753年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "唐の僧・鑑真は渡航失敗を重ねた後に来日した。戒律を伝え、日本での正式な授戒制度の整備に関わった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "753年に来日し、日本に戒律を伝えた唐僧は？",
+        "answer": "鑑真",
+        "accepted_answers": [
+          "鑑真"
+        ],
+        "explanation": "唐の僧・鑑真は渡航失敗を重ねた後に来日した。戒律を伝え、日本での正式な授戒制度の整備に関わった。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0093",
+      "order": 93,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近世",
+      "title": "朝鮮通信使",
+      "date": {
+        "display": "17〜19世紀初め",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "朝鮮王朝から日本へ派遣された外交使節。徳川政権との関係や学者同士の詩文交流を示し、一方向の文化伝達だけではない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "江戸時代に朝鮮王朝から日本へ派遣された外交使節は？",
+        "answer": "朝鮮通信使",
+        "accepted_answers": [
+          "朝鮮通信使"
+        ],
+        "explanation": "朝鮮王朝から日本へ派遣された外交使節。徳川政権との関係や学者同士の詩文交流を示し、一方向の文化伝達だけではない。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0094",
+      "order": 94,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近代",
+      "title": "日清戦争",
+      "date": {
+        "display": "1894〜1895年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "朝鮮をめぐる日清の対立を背景に起きた。下関条約で清は朝鮮の独立を認め、台湾などを日本へ割譲した。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "日清戦争を終結させた条約は？",
+        "answer": "下関条約",
+        "accepted_answers": [
+          "下関条約",
+          "馬関条約"
+        ],
+        "explanation": "朝鮮をめぐる日清の対立を背景に起きた。下関条約で清は朝鮮の独立を認め、台湾などを日本へ割譲した。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0095",
+      "order": 95,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近代",
+      "title": "戊戌の変法",
+      "date": {
+        "display": "1898年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "康有為・梁啓超らが光緒帝のもとで制度改革を推進した。西太后側の政変で挫折し、洋務運動との違いが問われる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1898年、康有為・梁啓超らが進めた政治改革は？",
+        "answer": "戊戌の変法",
+        "accepted_answers": [
+          "戊戌の変法"
+        ],
+        "explanation": "康有為・梁啓超らが光緒帝のもとで制度改革を推進した。西太后側の政変で挫折し、洋務運動との違いが問われる。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0096",
+      "order": 96,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近代",
+      "title": "三・一独立運動",
+      "date": {
+        "display": "1919年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "日本統治下の朝鮮で独立を求める運動が広がった。同年の中国の五・四運動と、地域・要求を区別して整理する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1919年に朝鮮で広がった独立運動は？",
+        "answer": "三・一独立運動",
+        "accepted_answers": [
+          "三・一独立運動"
+        ],
+        "explanation": "日本統治下の朝鮮で独立を求める運動が広がった。同年の中国の五・四運動と、地域・要求を区別して整理する。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0097",
+      "order": 97,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近代",
+      "title": "五・四運動",
+      "date": {
+        "display": "1919年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "中国で山東権益の処理などに反発する学生運動が起こり、各地へ拡大した。新文化運動とも関連する反帝国主義的な運動であった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1919年、中国で山東問題などへの抗議から広がった運動は？",
+        "answer": "五・四運動",
+        "accepted_answers": [
+          "五・四運動"
+        ],
+        "explanation": "中国で山東権益の処理などに反発する学生運動が起こり、各地へ拡大した。新文化運動とも関連する反帝国主義的な運動であった。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0098",
+      "order": 98,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "近代",
+      "title": "盧溝橋事件",
+      "date": {
+        "display": "1937年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "北京郊外での日中両軍の衝突を契機に、日中戦争が全面化した。1931年の柳条湖事件と区別する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "日中戦争全面化の契機となった1937年の事件は？",
+        "answer": "盧溝橋事件",
+        "accepted_answers": [
+          "盧溝橋事件"
+        ],
+        "explanation": "北京郊外での日中両軍の衝突を契機に、日中戦争が全面化した。1931年の柳条湖事件と区別する。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0099",
+      "order": 99,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "現代",
+      "title": "中華人民共和国の成立",
+      "date": {
+        "display": "1949年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "毛沢東が北京で中華人民共和国成立を宣言した。国共内戦の結果、中華民国政府は台湾へ移り、海峡両岸の分断が続いた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1949年に北京で成立を宣言された国家は？",
+        "answer": "中華人民共和国",
+        "accepted_answers": [
+          "中華人民共和国"
+        ],
+        "explanation": "毛沢東が北京で中華人民共和国成立を宣言した。国共内戦の結果、中華民国政府は台湾へ移り、海峡両岸の分断が続いた。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0100",
+      "order": 100,
+      "module_id": "M10",
+      "track": "東アジア史",
+      "region": "東アジア",
+      "era": "現代",
+      "title": "朝鮮戦争",
+      "date": {
+        "display": "1950〜1953年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "北朝鮮軍の南進で始まり、国連軍や中国人民志願軍も参戦した。1953年の休戦協定は平和条約とは異なる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1953年に結ばれ、戦闘停止の枠組みとなった協定は？",
+        "answer": "朝鮮休戦協定",
+        "accepted_answers": [
+          "朝鮮休戦協定",
+          "休戦協定",
+          "朝鮮戦争休戦協定"
+        ],
+        "explanation": "北朝鮮軍の南進で始まり、国連軍や中国人民志願軍も参戦した。1953年の休戦協定は平和条約とは異なる。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0101",
+      "order": 101,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "楔形文字",
+      "date": {
+        "display": "前4千年紀末",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "メソポタミアで成立し、粘土板に葦の筆で記した。シュメール語だけでなく、アッカド語など複数言語の表記に使われた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "メソポタミアで粘土板に刻まれた代表的な文字は？",
+        "answer": "楔形文字",
+        "accepted_answers": [
+          "楔形文字"
+        ],
+        "explanation": "メソポタミアで成立し、粘土板に葦の筆で記した。シュメール語だけでなく、アッカド語など複数言語の表記に使われた。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0102",
+      "order": 102,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "アフリカ・エジプト",
+      "era": "古代",
+      "title": "ギザのピラミッド",
+      "date": {
+        "display": "前3千年紀後半中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "エジプト古王国の王墓で、王権と死後の世界への信仰を示す。クフ王の大ピラミッドはその代表である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ギザの大ピラミッドを建てた古王国の王は？",
+        "answer": "クフ王",
+        "accepted_answers": [
+          "クフ王"
+        ],
+        "explanation": "エジプト古王国の王墓で、王権と死後の世界への信仰を示す。クフ王の大ピラミッドはその代表である。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · メンフィスと墓地遺跡",
+          "url": "https://whc.unesco.org/en/list/86"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0103",
+      "order": 103,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "ハンムラビ法典",
+      "date": {
+        "display": "前18世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "古バビロニア王国の王が整備した法典。条文には身分による刑罰差があり、「目には目を」だけで全体を説明しない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "古バビロニア王国のハンムラビ王に結びつく法典は？",
+        "answer": "ハンムラビ法典",
+        "accepted_answers": [
+          "ハンムラビ法典"
+        ],
+        "explanation": "古バビロニア王国の王が整備した法典。条文には身分による刑罰差があり、「目には目を」だけで全体を説明しない。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0104",
+      "order": 104,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "ホメロスと叙事詩",
+      "date": {
+        "display": "前8世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "『イリアス』『オデュッセイア』はホメロスの名で伝わる。口承の蓄積を背景とし、作品中の戦争をそのまま同時代記録とみなさない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『イリアス』『オデュッセイア』の作者として伝えられる人物は？",
+        "answer": "ホメロス",
+        "accepted_answers": [
+          "ホメロス"
+        ],
+        "explanation": "『イリアス』『オデュッセイア』はホメロスの名で伝わる。口承の蓄積を背景とし、作品中の戦争をそのまま同時代記録とみなさない。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0105",
+      "order": 105,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "パルテノン神殿",
+      "date": {
+        "display": "前5世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アテネのアクロポリスにアテナ女神のため造営された。ドーリア式を基本にイオニア式要素も備え、古典期ギリシア美術を代表する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "アテネのアクロポリスに建つアテナ女神の神殿は？",
+        "answer": "パルテノン神殿",
+        "accepted_answers": [
+          "パルテノン神殿"
+        ],
+        "explanation": "アテネのアクロポリスにアテナ女神のため造営された。ドーリア式を基本にイオニア式要素も備え、古典期ギリシア美術を代表する。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · アテネのアクロポリス",
+          "url": "https://whc.unesco.org/en/list/404"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0106",
+      "order": 106,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "ヘロドトスの『歴史』",
+      "date": {
+        "display": "前5世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ペルシア戦争を中心に、諸民族の習俗も記述した。伝聞を含むため、史料の性格を考えながら読む必要がある。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ペルシア戦争を軸とする『歴史』を著した人物は？",
+        "answer": "ヘロドトス",
+        "accepted_answers": [
+          "ヘロドトス"
+        ],
+        "explanation": "ペルシア戦争を中心に、諸民族の習俗も記述した。伝聞を含むため、史料の性格を考えながら読む必要がある。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0107",
+      "order": 107,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "プラトンの哲学",
+      "date": {
+        "display": "前5〜前4世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ソクラテスの弟子で、アカデメイアを開いた。イデア論や『国家』の著者として、師ソクラテス・弟子アリストテレスとの関係を押さえる。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "アカデメイアを開き、イデア論を説いた哲学者は？",
+        "answer": "プラトン",
+        "accepted_answers": [
+          "プラトン"
+        ],
+        "explanation": "ソクラテスの弟子で、アカデメイアを開いた。イデア論や『国家』の著者として、師ソクラテス・弟子アリストテレスとの関係を押さえる。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0108",
+      "order": 108,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "エウクレイデスの幾何学",
+      "date": {
+        "display": "前3世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アレクサンドリアで活動したとされる数学者。『原論』は定義や公理から命題を導く構成で、後世の数学教育に大きく影響した。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "幾何学を体系化した『原論』の著者は？",
+        "answer": "エウクレイデス",
+        "accepted_answers": [
+          "エウクレイデス",
+          "ユークリッド"
+        ],
+        "explanation": "アレクサンドリアで活動したとされる数学者。『原論』は定義や公理から命題を導く構成で、後世の数学教育に大きく影響した。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0109",
+      "order": 109,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "ウェルギリウスの叙事詩",
+      "date": {
+        "display": "前1世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "『アエネイス』はトロイアの英雄の旅をローマの起源へ結びつけた。アウグストゥス時代の文学と政治的背景を考える作品である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ウェルギリウスが著したローマの起源に関わる叙事詩は？",
+        "answer": "アエネイス",
+        "accepted_answers": [
+          "アエネイス"
+        ],
+        "explanation": "『アエネイス』はトロイアの英雄の旅をローマの起源へ結びつけた。アウグストゥス時代の文学と政治的背景を考える作品である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0110",
+      "order": 110,
+      "module_id": "M11",
+      "track": "世界文化・美術史",
+      "region": "西アジア・地中海",
+      "era": "古代",
+      "title": "ローマのパンテオン",
+      "date": {
+        "display": "2世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ハドリアヌス帝期に再建された建物で、巨大なコンクリートのドームと頂部の開口部が特徴。ギリシアのパルテノンとは別の建物である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ローマにある、巨大なドームと頂部の開口部で知られる建築は？",
+        "answer": "パンテオン",
+        "accepted_answers": [
+          "パンテオン",
+          "パンテオン神殿"
+        ],
+        "explanation": "ハドリアヌス帝期に再建された建物で、巨大なコンクリートのドームと頂部の開口部が特徴。ギリシアのパルテノンとは別の建物である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0111",
+      "order": 111,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "古代",
+      "title": "ヴェーダの伝承",
+      "date": {
+        "display": "前1500年頃以降",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アーリヤ系の人々による祭式や賛歌が口承された。『リグ＝ヴェーダ』などは、後のインドの宗教・思想を考える重要な資料である。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "古代インドの賛歌集で、ヴェーダのうち最古とされるものは？",
+        "answer": "リグ＝ヴェーダ",
+        "accepted_answers": [
+          "リグ＝ヴェーダ"
+        ],
+        "explanation": "アーリヤ系の人々による祭式や賛歌が口承された。『リグ＝ヴェーダ』などは、後のインドの宗教・思想を考える重要な資料である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0112",
+      "order": 112,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "古代",
+      "title": "ウパニシャッド思想",
+      "date": {
+        "display": "前6〜前5世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "祭式の意味を問い直し、ブラフマンとアートマンの関係を考察した。輪廻や解脱をめぐる思想の発展と関連づける。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ブラフマンとアートマンの一致を説く考えを何という？",
+        "answer": "梵我一如",
+        "accepted_answers": [
+          "梵我一如"
+        ],
+        "explanation": "祭式の意味を問い直し、ブラフマンとアートマンの関係を考察した。輪廻や解脱をめぐる思想の発展と関連づける。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0113",
+      "order": 113,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "古代",
+      "title": "仏教の成立",
+      "date": {
+        "display": "前5世紀頃を中心とする諸説",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ガウタマ＝シッダールタが苦とその克服への道を説いた。生没年には諸説があり、伝統的な年を唯一の確定値として扱わない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "仏教を開いた人物は？",
+        "answer": "ガウタマ＝シッダールタ",
+        "accepted_answers": [
+          "ガウタマ＝シッダールタ",
+          "釈迦",
+          "シャカ",
+          "ゴータマ＝シッダールタ",
+          "ガウタマ・シッダールタ",
+          "ブッダ"
+        ],
+        "explanation": "ガウタマ＝シッダールタが苦とその克服への道を説いた。生没年には諸説があり、伝統的な年を唯一の確定値として扱わない。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0114",
+      "order": 114,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "古代",
+      "title": "サーンチーの仏塔",
+      "date": {
+        "display": "前3〜前1世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アショーカ王に由来する仏塔が後に拡張された。欄楯や塔門の浮彫には仏教説話が表現され、初期仏教美術を示す。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "インド中部にある、初期仏教の仏塔群で知られる遺跡は？",
+        "answer": "サーンチー",
+        "accepted_answers": [
+          "サーンチー"
+        ],
+        "explanation": "アショーカ王に由来する仏塔が後に拡張された。欄楯や塔門の浮彫には仏教説話が表現され、初期仏教美術を示す。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · サーンチー",
+          "url": "https://whc.unesco.org/en/list/524"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0115",
+      "order": 115,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "古代",
+      "title": "ガンダーラ美術",
+      "date": {
+        "display": "1〜3世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "現在のパキスタン・アフガニスタン周辺で栄えた仏教美術。ヘレニズムなどの造形要素を取り入れ、仏像表現の発展に関わった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ヘレニズム的要素を取り入れた仏教美術で知られる地域は？",
+        "answer": "ガンダーラ",
+        "accepted_answers": [
+          "ガンダーラ"
+        ],
+        "explanation": "現在のパキスタン・アフガニスタン周辺で栄えた仏教美術。ヘレニズムなどの造形要素を取り入れ、仏像表現の発展に関わった。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0116",
+      "order": 116,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "古代",
+      "title": "カーリダーサの文学",
+      "date": {
+        "display": "4〜5世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "サンスクリット文学の詩人・劇作家で、『シャクンタラー』で名高い。グプタ朝期の古典文化の発展と結びつけて学ぶ。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "戯曲『シャクンタラー』の作者は？",
+        "answer": "カーリダーサ",
+        "accepted_answers": [
+          "カーリダーサ"
+        ],
+        "explanation": "サンスクリット文学の詩人・劇作家で、『シャクンタラー』で名高い。グプタ朝期の古典文化の発展と結びつけて学ぶ。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0117",
+      "order": 117,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "古代",
+      "title": "アジャンター石窟",
+      "date": {
+        "display": "前2世紀〜後6世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "長期間にわたり造営された仏教石窟群。とくに5世紀頃の壁画が知られ、仏教説話と高度な絵画表現を示す。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "インドの仏教壁画で名高い、デカンの石窟寺院群は？",
+        "answer": "アジャンター石窟",
+        "accepted_answers": [
+          "アジャンター石窟"
+        ],
+        "explanation": "長期間にわたり造営された仏教石窟群。とくに5世紀頃の壁画が知られ、仏教説話と高度な絵画表現を示す。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · アジャンター",
+          "url": "https://whc.unesco.org/en/list/242"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0118",
+      "order": 118,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "中世",
+      "title": "ボロブドゥール",
+      "date": {
+        "display": "8〜9世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ジャワ島に造営された仏教遺跡で、回廊の浮彫とストゥーパ群が特徴。近隣のヒンドゥー教遺跡プランバナンと区別する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ジャワ島にある、ストゥーパ群で知られる大規模な仏教遺跡は？",
+        "answer": "ボロブドゥール",
+        "accepted_answers": [
+          "ボロブドゥール"
+        ],
+        "explanation": "ジャワ島に造営された仏教遺跡で、回廊の浮彫とストゥーパ群が特徴。近隣のヒンドゥー教遺跡プランバナンと区別する。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · ボロブドゥール",
+          "url": "https://whc.unesco.org/en/list/592"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0119",
+      "order": 119,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "中世",
+      "title": "アンコール・ワット",
+      "date": {
+        "display": "12世紀前半",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "スーリヤヴァルマン2世が造営した寺院で、当初はヴィシュヌ神に捧げられた。後に仏教の聖地としても用いられた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "アンコール・ワットを造営したクメールの王は？",
+        "answer": "スーリヤヴァルマン2世",
+        "accepted_answers": [
+          "スーリヤヴァルマン2世"
+        ],
+        "explanation": "スーリヤヴァルマン2世が造営した寺院で、当初はヴィシュヌ神に捧げられた。後に仏教の聖地としても用いられた。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · アンコール",
+          "url": "https://whc.unesco.org/en/list/668"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0120",
+      "order": 120,
+      "module_id": "M12",
+      "track": "世界文化・美術史",
+      "region": "南アジア・東南アジア",
+      "era": "近世",
+      "title": "タージ＝マハル",
+      "date": {
+        "display": "1632〜1653年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ムガル皇帝シャー＝ジャハーンが妃のために造営した墓廟。白大理石や幾何学的庭園に、インドとイスラーム圏の造形が融合する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "タージ＝マハルを造営させたムガル皇帝は？",
+        "answer": "シャー＝ジャハーン",
+        "accepted_answers": [
+          "シャー＝ジャハーン"
+        ],
+        "explanation": "ムガル皇帝シャー＝ジャハーンが妃のために造営した墓廟。白大理石や幾何学的庭園に、インドとイスラーム圏の造形が融合する。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · タージ・マハル",
+          "url": "https://whc.unesco.org/en/list/252"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0121",
+      "order": 121,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アジア・アフリカ",
+      "era": "中世",
+      "title": "岩のドーム",
+      "date": {
+        "display": "691〜692年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ウマイヤ朝のアブド＝アルマリクがエルサレムに建てた聖所。八角形の平面とドームを備え、初期イスラーム建築を代表する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "エルサレムにウマイヤ朝が造営した、金色のドームで知られる聖所は？",
+        "answer": "岩のドーム",
+        "accepted_answers": [
+          "岩のドーム"
+        ],
+        "explanation": "ウマイヤ朝のアブド＝アルマリクがエルサレムに建てた聖所。八角形の平面とドームを備え、初期イスラーム建築を代表する。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0122",
+      "order": 122,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アジア・アフリカ",
+      "era": "中世",
+      "title": "アッバース朝の翻訳活動",
+      "date": {
+        "display": "8〜9世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "バグダードではギリシア語などの学術書がアラビア語へ翻訳された。複数宗教の学者が関わり、数学・医学・哲学の発展を支えた。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "アッバース朝の翻訳・学術活動の中心となった都は？",
+        "answer": "バグダード",
+        "accepted_answers": [
+          "バグダード"
+        ],
+        "explanation": "バグダードではギリシア語などの学術書がアラビア語へ翻訳された。複数宗教の学者が関わり、数学・医学・哲学の発展を支えた。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0123",
+      "order": 123,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アジア・アフリカ",
+      "era": "中世",
+      "title": "フワーリズミーの数学",
+      "date": {
+        "display": "9世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "代数学の書物を著し、インド由来の位取り記数法の普及にも関わった。イスラーム圏の学術は翻訳を基礎に新たな研究を生んだ。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "代数学の発展で知られる、9世紀のイスラーム圏の数学者は？",
+        "answer": "フワーリズミー",
+        "accepted_answers": [
+          "フワーリズミー",
+          "アル＝フワーリズミー"
+        ],
+        "explanation": "代数学の書物を著し、インド由来の位取り記数法の普及にも関わった。イスラーム圏の学術は翻訳を基礎に新たな研究を生んだ。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0124",
+      "order": 124,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アジア・アフリカ",
+      "era": "中世",
+      "title": "イブン＝シーナーの医学",
+      "date": {
+        "display": "10〜11世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "哲学者・医師として活動し、『医学典範』を著した。ラテン語訳を通じてヨーロッパの医学教育にも影響した。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『医学典範』を著した医師・哲学者は？",
+        "answer": "イブン＝シーナー",
+        "accepted_answers": [
+          "イブン＝シーナー",
+          "アヴィケンナ"
+        ],
+        "explanation": "哲学者・医師として活動し、『医学典範』を著した。ラテン語訳を通じてヨーロッパの医学教育にも影響した。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0125",
+      "order": 125,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アジア・アフリカ",
+      "era": "中世",
+      "title": "『シャー＝ナーメ』",
+      "date": {
+        "display": "1010年頃完成",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "フィルドゥシーによるペルシア語の叙事詩。古代イランの王や英雄の物語を集め、イスラーム化後のペルシア文学を代表する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ペルシア叙事詩『シャー＝ナーメ』の作者は？",
+        "answer": "フィルドゥシー",
+        "accepted_answers": [
+          "フィルドゥシー"
+        ],
+        "explanation": "フィルドゥシーによるペルシア語の叙事詩。古代イランの王や英雄の物語を集め、イスラーム化後のペルシア文学を代表する。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0126",
+      "order": 126,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アジア・アフリカ",
+      "era": "中世",
+      "title": "イスラームの書道",
+      "date": {
+        "display": "7世紀以降",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アラビア文字の書道はクルアーン写本や建築装飾で発展した。宗教美術で重要だが、イスラーム圏の美術すべてが文字だけで構成されるわけではない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "イスラーム美術で重要な、文字を美しく造形する芸術は？",
+        "answer": "書道",
+        "accepted_answers": [
+          "書道"
+        ],
+        "explanation": "アラビア文字の書道はクルアーン写本や建築装飾で発展した。宗教美術で重要だが、イスラーム圏の美術すべてが文字だけで構成されるわけではない。"
+      },
+      "references": [
+        {
+          "label": "The Met · イスラームの書道",
+          "url": "https://www.metmuseum.org/de/essays/calligraphy-in-islamic-art"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0127",
+      "order": 127,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ・イベリア半島",
+      "era": "中世",
+      "title": "アルハンブラ宮殿",
+      "date": {
+        "display": "13〜14世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "イベリア半島のナスル朝がグラナダに築いた宮殿群。幾何学文様・アラビア文字・中庭や水の配置などが特徴である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "グラナダにある、ナスル朝の代表的な宮殿は？",
+        "answer": "アルハンブラ宮殿",
+        "accepted_answers": [
+          "アルハンブラ宮殿"
+        ],
+        "explanation": "イベリア半島のナスル朝がグラナダに築いた宮殿群。幾何学文様・アラビア文字・中庭や水の配置などが特徴である。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · アルハンブラ",
+          "url": "https://whc.unesco.org/en/list/314"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0128",
+      "order": 128,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "アフリカ南部",
+      "era": "中世",
+      "title": "グレート＝ジンバブウェ",
+      "date": {
+        "display": "11〜15世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アフリカ南部の石造建築遺跡。現地社会が築き、内陸の金交易やインド洋交易とのつながりを示す。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "アフリカ南部にある、大規模な石積み建築の遺跡は？",
+        "answer": "グレート＝ジンバブウェ",
+        "accepted_answers": [
+          "グレート＝ジンバブウェ"
+        ],
+        "explanation": "アフリカ南部の石造建築遺跡。現地社会が築き、内陸の金交易やインド洋交易とのつながりを示す。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · グレート・ジンバブウェ",
+          "url": "https://whc.unesco.org/en/list/364"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0129",
+      "order": 129,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アフリカ",
+      "era": "中世",
+      "title": "トンブクトゥの学問",
+      "date": {
+        "display": "15〜16世紀に繁栄",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "サハラ交易の拠点として栄え、モスクや写本文化を中心にイスラームの学問が発達した。西アフリカを知的交流の地域として捉える。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "西アフリカでサハラ交易とイスラーム学問の中心となった都市は？",
+        "answer": "トンブクトゥ",
+        "accepted_answers": [
+          "トンブクトゥ"
+        ],
+        "explanation": "サハラ交易の拠点として栄え、モスクや写本文化を中心にイスラームの学問が発達した。西アフリカを知的交流の地域として捉える。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · トンブクトゥ",
+          "url": "https://whc.unesco.org/en/list/119/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0130",
+      "order": 130,
+      "module_id": "M13",
+      "track": "世界文化・美術史",
+      "region": "西アフリカ",
+      "era": "近世",
+      "title": "ベニン王国の宮廷美術",
+      "date": {
+        "display": "16〜17世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "現在のナイジェリア南部で、真鍮鋳造や象牙彫刻が王権の表現に使われた。現在のベナン共和国とは地理的に区別する。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "現在のナイジェリア南部で、真鍮の宮廷美術を発展させた王国は？",
+        "answer": "ベニン王国",
+        "accepted_answers": [
+          "ベニン王国"
+        ],
+        "explanation": "現在のナイジェリア南部で、真鍮鋳造や象牙彫刻が王権の表現に使われた。現在のベナン共和国とは地理的に区別する。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0131",
+      "order": 131,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "中世",
+      "title": "ハギア＝ソフィア",
+      "date": {
+        "display": "532〜537年",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ユスティニアヌス帝がコンスタンティノープルに再建した大聖堂。大ドームを特徴とし、ビザンツ建築の代表作となった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ユスティニアヌス帝が再建した、コンスタンティノープルの大聖堂は？",
+        "answer": "ハギア＝ソフィア",
+        "accepted_answers": [
+          "ハギア＝ソフィア"
+        ],
+        "explanation": "ユスティニアヌス帝がコンスタンティノープルに再建した大聖堂。大ドームを特徴とし、ビザンツ建築の代表作となった。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0132",
+      "order": 132,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "中世",
+      "title": "ゴシック建築",
+      "date": {
+        "display": "12世紀以降",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "尖頭アーチ・リブ＝ヴォールト・飛梁などを用い、高い天井と大きな窓を可能にした。ロマネスクの厚い壁との比較が重要である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "尖頭アーチや飛梁、ステンドグラスで知られる建築様式は？",
+        "answer": "ゴシック建築",
+        "accepted_answers": [
+          "ゴシック建築"
+        ],
+        "explanation": "尖頭アーチ・リブ＝ヴォールト・飛梁などを用い、高い天井と大きな窓を可能にした。ロマネスクの厚い壁との比較が重要である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0133",
+      "order": 133,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "中世",
+      "title": "ダンテの『神曲』",
+      "date": {
+        "display": "14世紀初め",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ダンテは俗語のトスカーナ語で死後の世界への旅を描いた。古典文化とキリスト教の世界観が結びつく文学作品である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "地獄・煉獄・天国への旅を描いたダンテの作品は？",
+        "answer": "神曲",
+        "accepted_answers": [
+          "神曲"
+        ],
+        "explanation": "ダンテは俗語のトスカーナ語で死後の世界への旅を描いた。古典文化とキリスト教の世界観が結びつく文学作品である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0134",
+      "order": 134,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "中世",
+      "title": "グーテンベルクの印刷",
+      "date": {
+        "display": "15世紀中頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ヨーロッパで金属活字と印刷機による印刷を実用化した。活字は東アジアに先例があり、世界最初の活字発明と表現しない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ヨーロッパで金属活字印刷を実用化した人物は？",
+        "answer": "グーテンベルク",
+        "accepted_answers": [
+          "グーテンベルク"
+        ],
+        "explanation": "ヨーロッパで金属活字と印刷機による印刷を実用化した。活字は東アジアに先例があり、世界最初の活字発明と表現しない。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0135",
+      "order": 135,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "近世",
+      "title": "レオナルドの『最後の晩餐』",
+      "date": {
+        "display": "1495〜1498年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ミラノの修道院食堂に描かれ、遠近法や人物の心理表現が特徴。盛期ルネサンスの絵画を理解する代表作である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ミラノの『最後の晩餐』を描いた人物は？",
+        "answer": "レオナルド＝ダ＝ヴィンチ",
+        "accepted_answers": [
+          "レオナルド＝ダ＝ヴィンチ",
+          "レオナルド・ダ・ヴィンチ",
+          "ダ＝ヴィンチ",
+          "ダ・ヴィンチ"
+        ],
+        "explanation": "ミラノの修道院食堂に描かれ、遠近法や人物の心理表現が特徴。盛期ルネサンスの絵画を理解する代表作である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0136",
+      "order": 136,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "近世",
+      "title": "コペルニクスの地動説",
+      "date": {
+        "display": "1543年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "『天球の回転について』で、地球を含む惑星が太陽の周りを動く体系を論じた。後のケプラーやガリレイの研究につながった。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1543年刊の『天球の回転について』の著者は？",
+        "answer": "コペルニクス",
+        "accepted_answers": [
+          "コペルニクス"
+        ],
+        "explanation": "『天球の回転について』で、地球を含む惑星が太陽の周りを動く体系を論じた。後のケプラーやガリレイの研究につながった。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0137",
+      "order": 137,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "近世",
+      "title": "ニュートンの『プリンキピア』",
+      "date": {
+        "display": "1687年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "運動の法則と万有引力によって天体と地上の運動を統一的に説明した。17世紀の科学革命を象徴する著作である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『プリンキピア』で運動法則と万有引力を体系化した人物は？",
+        "answer": "ニュートン",
+        "accepted_answers": [
+          "ニュートン"
+        ],
+        "explanation": "運動の法則と万有引力によって天体と地上の運動を統一的に説明した。17世紀の科学革命を象徴する著作である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0138",
+      "order": 138,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "近代",
+      "title": "ベートーヴェンの第九交響曲",
+      "date": {
+        "display": "1824年初演",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "終楽章に独唱と合唱を導入し、シラーの「歓喜に寄す」を用いた。古典派からロマン派への流れを考える作品である。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "第九交響曲「合唱付き」を作曲した人物は？",
+        "answer": "ベートーヴェン",
+        "accepted_answers": [
+          "ベートーヴェン"
+        ],
+        "explanation": "終楽章に独唱と合唱を導入し、シラーの「歓喜に寄す」を用いた。古典派からロマン派への流れを考える作品である。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0139",
+      "order": 139,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "近代",
+      "title": "第1回印象派展",
+      "date": {
+        "display": "1874年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "モネらが公式サロンの外で共同展を開催した。光や色彩の変化を捉える表現は、19世紀の都市生活や制作環境とも関わる。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "モネらの画家が1874年に最初の共同展を開いた芸術運動は？",
+        "answer": "印象派",
+        "accepted_answers": [
+          "印象派"
+        ],
+        "explanation": "モネらが公式サロンの外で共同展を開催した。光や色彩の変化を捉える表現は、19世紀の都市生活や制作環境とも関わる。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0140",
+      "order": 140,
+      "module_id": "M14",
+      "track": "世界文化・美術史",
+      "region": "ヨーロッパ",
+      "era": "近代",
+      "title": "ピカソの造形実験",
+      "date": {
+        "display": "1907年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "『アヴィニョンの娘たち』は人体を大胆に変形し、キュビスムへの展開を準備した。アフリカなどの造形への関心と植民地期の文化接触も背景にある。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "『アヴィニョンの娘たち』を描いた画家は？",
+        "answer": "ピカソ",
+        "accepted_answers": [
+          "ピカソ"
+        ],
+        "explanation": "『アヴィニョンの娘たち』は人体を大胆に変形し、キュビスムへの展開を準備した。アフリカなどの造形への関心と植民地期の文化接触も背景にある。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0141",
+      "order": 141,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "メソアメリカ",
+      "era": "古代",
+      "title": "オルメカの巨石人頭像",
+      "date": {
+        "display": "前1200〜前400年頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "メキシコ湾岸のオルメカ文化は巨大な石の頭像を残した。王権の表現と考えられ、マヤやアステカ以前の地域文化を示す。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "メキシコ湾岸で巨石人頭像を残した文化は？",
+        "answer": "オルメカ文化",
+        "accepted_answers": [
+          "オルメカ文化",
+          "オルメカ"
+        ],
+        "explanation": "メキシコ湾岸のオルメカ文化は巨大な石の頭像を残した。王権の表現と考えられ、マヤやアステカ以前の地域文化を示す。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0142",
+      "order": 142,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "メソアメリカ",
+      "era": "古代",
+      "title": "テオティワカン",
+      "date": {
+        "display": "前1世紀〜後7世紀頃",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "中央メキシコの大都市で、太陽のピラミッドや計画的な都市配置が知られる。後のアステカ人による建設ではない。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "中央メキシコで太陽のピラミッドがある古代都市は？",
+        "answer": "テオティワカン",
+        "accepted_answers": [
+          "テオティワカン"
+        ],
+        "explanation": "中央メキシコの大都市で、太陽のピラミッドや計画的な都市配置が知られる。後のアステカ人による建設ではない。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · テオティワカン",
+          "url": "https://whc.unesco.org/en/list/414"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0143",
+      "order": 143,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "メソアメリカ",
+      "era": "中世",
+      "title": "マヤの文字と暦",
+      "date": {
+        "display": "3〜9世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "マヤの都市では文字記録や精密な暦が発達した。ゼロの表現を備える数体系を用い、独自の知識を蓄積した。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "文字・暦やゼロを表す数体系で知られるメソアメリカの文明は？",
+        "answer": "マヤ文明",
+        "accepted_answers": [
+          "マヤ文明",
+          "マヤ"
+        ],
+        "explanation": "マヤの都市では文字記録や精密な暦が発達した。ゼロの表現を備える数体系を用い、独自の知識を蓄積した。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0144",
+      "order": 144,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "南アメリカ",
+      "era": "中世",
+      "title": "インカのキープ",
+      "date": {
+        "display": "15世紀",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "インカでは紐の結び目や色によるキープが、人口や貢納などの記録に使われた。アルファベットのような文字体系と同一視しない。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "インカで紐の結び目などを用いた記録方法は？",
+        "answer": "キープ",
+        "accepted_answers": [
+          "キープ"
+        ],
+        "explanation": "インカでは紐の結び目や色によるキープが、人口や貢納などの記録に使われた。アルファベットのような文字体系と同一視しない。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0145",
+      "order": 145,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "南アメリカ",
+      "era": "中世",
+      "title": "マチュ＝ピチュ",
+      "date": {
+        "display": "15世紀中心",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "アンデスの山地に築かれたインカの遺跡。精密な石組みと地形に合わせた配置が特徴で、クスコを中心とする帝国文化に属する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "アンデス山地にある、インカの石造遺跡は？",
+        "answer": "マチュ＝ピチュ",
+        "accepted_answers": [
+          "マチュ＝ピチュ"
+        ],
+        "explanation": "アンデスの山地に築かれたインカの遺跡。精密な石組みと地形に合わせた配置が特徴で、クスコを中心とする帝国文化に属する。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · マチュ・ピチュ",
+          "url": "https://whc.unesco.org/en/list/274"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0146",
+      "order": 146,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "オセアニア",
+      "era": "中世",
+      "title": "ラパ・ヌイのモアイ",
+      "date": {
+        "display": "13〜16世紀頃中心",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "太平洋のラパ・ヌイでは祖先と結びつく巨大石像が造られた。島民の航海・社会・祭祀の歴史とともに理解する。",
+      "difficulty": {
+        "level": 1,
+        "label": "基礎"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ラパ・ヌイで造られた巨大な石像は？",
+        "answer": "モアイ",
+        "accepted_answers": [
+          "モアイ"
+        ],
+        "explanation": "太平洋のラパ・ヌイでは祖先と結びつく巨大石像が造られた。島民の航海・社会・祭祀の歴史とともに理解する。"
+      },
+      "references": [
+        {
+          "label": "UNESCO · ラパ・ヌイ",
+          "url": "https://whc.unesco.org/en/list/715"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0147",
+      "order": 147,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "オセアニア",
+      "era": "中世",
+      "title": "マオリの彫刻文化",
+      "date": {
+        "display": "13世紀頃以降",
+        "precision": "概数・諸説",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ニュージーランドに定着したマオリは、集会所や木彫などで祖先の系譜を表現してきた。口承と造形が歴史の継承を支えた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "ニュージーランドで集会所の木彫などの伝統をもつ先住民族は？",
+        "answer": "マオリ",
+        "accepted_answers": [
+          "マオリ"
+        ],
+        "explanation": "ニュージーランドに定着したマオリは、集会所や木彫などで祖先の系譜を表現してきた。口承と造形が歴史の継承を支えた。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0148",
+      "order": 148,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "メキシコ",
+      "era": "現代",
+      "title": "メキシコ壁画運動",
+      "date": {
+        "display": "1920年代",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "革命後のメキシコで、リベラやオロスコらが公共建築に大規模な壁画を制作した。先住民の歴史や労働者を社会的主題として描いた。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "リベラやオロスコらが担った、革命後メキシコの美術運動は？",
+        "answer": "メキシコ壁画運動",
+        "accepted_answers": [
+          "メキシコ壁画運動"
+        ],
+        "explanation": "革命後のメキシコで、リベラやオロスコらが公共建築に大規模な壁画を制作した。先住民の歴史や労働者を社会的主題として描いた。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0149",
+      "order": 149,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "北アメリカ",
+      "era": "現代",
+      "title": "ハーレム＝ルネサンス",
+      "date": {
+        "display": "1920年代",
+        "precision": "期間",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ニューヨークのハーレムを中心に、黒人の文学・音楽・美術が活発化した。ラングストン＝ヒューズらの活動が知られる。",
+      "difficulty": {
+        "level": 2,
+        "label": "標準"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1920年代のニューヨークで展開した黒人文化の興隆を何という？",
+        "answer": "ハーレム＝ルネサンス",
+        "accepted_answers": [
+          "ハーレム＝ルネサンス"
+        ],
+        "explanation": "ニューヨークのハーレムを中心に、黒人の文学・音楽・美術が活発化した。ラングストン＝ヒューズらの活動が知られる。"
+      },
+      "references": [
+        {
+          "label": "The Met · 世界美術史年表",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "WHQ-0150",
+      "order": 150,
+      "module_id": "M15",
+      "track": "世界文化・美術史",
+      "region": "アフリカ",
+      "era": "現代",
+      "title": "ウォーレ＝ショインカの受賞",
+      "date": {
+        "display": "1986年",
+        "precision": "年",
+        "note": "紀元前は「前」で表記。範囲・概数は確定した単一年を意味しない。"
+      },
+      "explanation": "ナイジェリアの劇作家ショインカがノーベル文学賞を受賞した。ヨルバの文化と現代演劇を結びつけた仕事で知られ、アフリカ現代文学の一例となる。",
+      "difficulty": {
+        "level": 3,
+        "label": "発展"
+      },
+      "quiz": {
+        "type": "short_answer",
+        "question": "1986年にノーベル文学賞を受賞したナイジェリアの劇作家は？",
+        "answer": "ウォーレ＝ショインカ",
+        "accepted_answers": [
+          "ウォーレ＝ショインカ",
+          "ウォーレ・ショインカ",
+          "ウォレ・ショインカ",
+          "ショインカ"
+        ],
+        "explanation": "ナイジェリアの劇作家ショインカがノーベル文学賞を受賞した。ヨルバの文化と現代演劇を結びつけた仕事で知られ、アフリカ現代文学の一例となる。"
+      },
+      "references": [
+        {
+          "label": "Nobel Prize · ショインカ",
+          "url": "https://www.nobelprize.org/prizes/literature/1986/soyinka/biographical/"
+        }
+      ]
+    }
+  ]
+}

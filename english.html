@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#FAF8F3"><title>World History — A Journey to Success</title><meta name="description" content="Twenty questions a day. Learn world history through short playful challenges."><link rel="stylesheet" href="style.css?v=english-full-1"><body><header><a class="brand" href="./"><svg class="brand-globe" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="16" cy="16" r="13"/><ellipse cx="16" cy="16" rx="5.5" ry="13"/><path d="M3 16h26M5 9h22M5 23h22"/></svg><span>World History<small>A Journey to Success</small></span></a><a class="lang" href="./" lang="ja" aria-label="Switch to Japanese">日本語</a><button id="sound" aria-label="Toggle sound">Sound OFF</button></header><main id="app"><p class="account-loading" role="status">Loading your study record…</p></main><footer><span>Little by little, history connects.</span><button id="about">About this game ↗</button></footer><dialog id="info"><button id="close" class="close">Close ×</button><h2>A small habit for a bigger goal.</h2><p>Original world-history practice for learners who want to understand the past. This edition has 5,000 learning entries across 40 sections, alongside the original 320 questions. There are 150 original explanations and 4,850 source-based cards assembled from public Wikidata records; the latter have not been individually reviewed. This is not a university past paper or an admissions prediction.</p><p>Practise terms, dates and historical connections in short rounds. Mistakes remain in your review list until you answer correctly. XP measures practice, not proficiency or admission chances.</p><p>This edition does not cover every part of History Overview, map analysis, source interpretation or essay writing. Use it with textbooks, reference materials and past papers for your chosen faculty. Exam routes and subjects vary by faculty and year.</p><h3>Content and references</h3><p>The original questions, answers and explanations were reviewed on 3 November 2026. Source-based cards link to their source records. Dates may be approximate or disputed; reference links appear after answers. Historical interpretations can differ. English names and descriptions for source-based cards are localized from the same Wikidata entities; date precision and question IDs are preserved.</p><p>The dachshund tutor is an original study mascot. Decorative illustrations are not historical evidence.</p><p class="muted">Study progress is saved in this browser.</p><button id="reset" class="secondary">Reset learning progress</button></dialog><script>const historyStorage=localStorage;const HistoryAccounts={reset:async()=>false};</script>
+<script>
+(async () => {
+  for (const file of ["en-data.js?v=english-full-1", "en-extra.js?v=english-full-1", "references.js?v=english-full-1", "en-topics.js?v=english-full-1", "en-curriculum.js?v=english-full-1", "celebrate.js?v=english-full-1", "en-map-data.js?v=english-full-1", "en-map.js?v=english-full-1", "daily.js?v=english-full-1", "sounds.js?v=english-full-1", "en-year-data.js?v=english-full-1", "en-years.js?v=english-full-1", "mascot.js?v=english-full-1", "icons.js?v=english-full-1", "readiness.js?v=english-full-1", "en-why-data.js?v=english-full-1", "en-why.js?v=english-full-1", "language-nav.js?v=language-parity-1", "en-app.js?v=english-full-1"]) {
+    let source = file;
+    if (/(^|-)curriculum\.js\?/.test(file)) {
+      const response = await fetch(file.split('?')[0] + '.gz');
+      if (!response.ok || !response.body) throw new Error('Curriculum unavailable');
+      const inflated = await new Response(response.body.pipeThrough(new DecompressionStream('gzip'))).text();
+      source = URL.createObjectURL(new Blob([inflated], {type:'application/javascript'}));
+    }
+    try {
+      await new Promise((resolve,reject) => {
+        const script = document.createElement('script');
+        script.src = source;
+        script.onload = resolve;
+        script.onerror = reject;
+        document.head.append(script);
+      });
+    } finally { if (source !== file) URL.revokeObjectURL(source); }
+  }
+})().catch(error => {
+  console.error(error);
+  document.querySelector('#app').textContent = document.documentElement.lang === 'en'
+    ? 'The study materials could not load. Please reload the page.'
+    : '教材を読み込めませんでした。ページを再読み込みしてください。';
+});
+</script>
+</body></html>
